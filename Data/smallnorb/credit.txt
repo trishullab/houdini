@@ -1,0 +1,2 @@
+This python wrapper around the small NORB dataset was obtained from:
+https://github.com/ndrplz/small_norb
