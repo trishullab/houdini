@@ -3,7 +3,7 @@ Code for running the experiments, described in our NIPS 2018 paper "HOUDINI: Lif
 
 ## Requirements:
 
-- Pytorch 0.3.0
+- Pytorch 0.3.1
 
 
 ## Datasets
