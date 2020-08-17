@@ -1,5 +1,5 @@
 # HOUDINI - Lifelong Learning
-Code for running the experiments, described in our NIPS 2018 paper "HOUDINI: Lifelong Learning as Program Synthesis" (https://arxiv.org/abs/1804.00218)
+Code for running the experiments, described in our NeurIPS 2018 paper "HOUDINI: Lifelong Learning as Program Synthesis" (https://arxiv.org/abs/1804.00218)
 
 ## Requirements:
 
