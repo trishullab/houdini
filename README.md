@@ -1,6 +1,8 @@
 # HOUDINI - Lifelong Learning
 Code for running the experiments, described in our NeurIPS 2018 paper "HOUDINI: Lifelong Learning as Program Synthesis" (https://arxiv.org/abs/1804.00218)
 
+March 2025: An updated version of the code, as well as information about the structure of the project can be found in [this fork](https://github.com/LazarValkov/houdini). 
+
 ## Requirements:
 
 - Pytorch 0.3.1
